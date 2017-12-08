@@ -60,7 +60,9 @@ html {
 }
 
 .masthead a:hover {
-  background-color: rgba(180, 220, 255, .3);
+  background-color: rgba(255, 255, 255, .6);
+
+  color: #000;
 }
 
 .techniques {
